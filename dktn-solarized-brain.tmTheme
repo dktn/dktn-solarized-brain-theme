@@ -16,13 +16,13 @@
 				<key>foreground</key>
 				<string>#FFFFFF0D</string>
                 <key>gutterForeground</key>
-                <string>#3A3A38</string>
+                <string>#3A3B38</string>
 				<key>gutter</key>
-				<string>#242424</string>
+				<string>#202228</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#232323</string>
+				<string>#232429</string>
 				<key>selection</key>
 				<string>#383838</string>
 				<key>findHighlight</key>
@@ -34,7 +34,7 @@
 				<key>activeGuide</key>
 				<string>#9D550F</string>
 				<key>guide</key>
-				<string>#FFFFFF06</string>
+				<string>#FFFFFF0A</string>
 				<key>bracketsForeground</key>
 				<string>#F8F8F2</string>
 				<key>bracketsOptions</key>
