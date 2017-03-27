@@ -493,9 +493,9 @@
 
     {
         "class": "dialog",
-        "layer0.tint": [40, 40, 40],
-        "layer1.tint": [40, 40, 40],
-        "layer2.tint": [40, 40, 40],
+        "layer0.tint": [40, 42, 50],
+        "layer1.tint": [40, 42, 50],
+        "layer2.tint": [40, 42, 50],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -857,9 +857,9 @@
         "class": "button_control",
         "content_margin": [6, 5, 6, 6],
         "min_size": [75, 0],
-        "layer0.tint": [80, 80, 80],
-        "layer1.tint": [80, 80, 80],
-        "layer2.tint": [80, 80, 80],
+        "layer0.tint": [72, 74, 90],
+        "layer1.tint": [72, 74, 90],
+        "layer2.tint": [72, 74, 90],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -869,9 +869,9 @@
     {
         "class": "button_control",
         "attributes": ["pressed"],
-        "layer0.tint": [150, 150, 150],
-        "layer1.tint": [150, 150, 150],
-        "layer2.tint": [150, 150, 150],
+        "layer0.tint": [140, 149, 175],
+        "layer1.tint": [140, 149, 175],
+        "layer2.tint": [140, 149, 175],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -916,9 +916,9 @@
     // Bottom panel background
     {
         "class": "panel_control",
-        "layer0.tint": [43, 43, 43],
-        "layer1.tint": [43, 43, 43],
-        "layer2.tint": [43, 43, 43],
+        "layer0.tint": [40, 42, 50],
+        "layer1.tint": [40, 42, 50],
+        "layer2.tint": [40, 42, 50],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -927,9 +927,9 @@
     // Quick panel background
     {
         "class": "overlay_control",
-        "layer0.tint": [43, 43, 43],
-        "layer1.tint": [43, 43, 43],
-        "layer2.tint": [43, 43, 43],
+        "layer0.tint": [40, 42, 50],
+        "layer1.tint": [40, 42, 50],
+        "layer2.tint": [40, 42, 50],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -963,9 +963,9 @@
     {
         "class": "quick_panel_row",
         "attributes": ["selected"],
-        "layer0.tint": [80, 80, 80],
-        "layer1.tint": [80, 80, 80],
-        "layer2.tint": [80, 80, 80],
+        "layer0.tint": [80, 85, 100],
+        "layer1.tint": [80, 85, 100],
+        "layer2.tint": [80, 85, 100],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -996,9 +996,9 @@
 
     {
         "class": "mini_quick_panel_row",
-        "layer0.tint": [27, 27, 27],
-        "layer1.tint": [27, 27, 27],
-        "layer2.tint": [27, 27, 27],
+        "layer0.tint": [24, 25, 30],
+        "layer1.tint": [24, 25, 30],
+        "layer2.tint": [24, 25, 30],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -1041,9 +1041,9 @@
     },
     {
         "class": "table_row",
-        "layer0.tint": [28, 28, 28],
-        "layer1.tint": [28, 28, 28],
-        "layer2.tint": [28, 28, 28],
+        "layer0.tint": [28, 30, 35],
+        "layer1.tint": [28, 30, 35],
+        "layer2.tint": [28, 30, 35],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -1067,9 +1067,9 @@
     // Button group middle
     {
         "class": "icon_button_control",
-        "layer0.tint": [100, 100, 100],
-        "layer1.tint": [100, 100, 100],
-        "layer2.tint": [100, 100, 100],
+        "layer0.tint": [100, 106, 125],
+        "layer1.tint": [100, 106, 125],
+        "layer2.tint": [100, 106, 125],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -1079,9 +1079,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["selected"],
-        "layer0.tint": [80, 80, 80],
-        "layer1.tint": [80, 80, 80],
-        "layer2.tint": [80, 80, 80],
+        "layer0.tint": [80, 85, 100],
+        "layer1.tint": [80, 85, 100],
+        "layer2.tint": [80, 85, 100],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -1090,9 +1090,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["left"],
-        "layer0.tint": [100, 100, 100],
-        "layer1.tint": [100, 100, 100],
-        "layer2.tint": [100, 100, 100],
+        "layer0.tint": [100, 106, 125],
+        "layer1.tint": [100, 106, 125],
+        "layer2.tint": [100, 106, 125],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -1101,9 +1101,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["left", "selected"],
-        "layer0.tint": [80, 80, 80],
-        "layer1.tint": [80, 80, 80],
-        "layer2.tint": [80, 80, 80],
+        "layer0.tint": [80, 85, 100],
+        "layer1.tint": [80, 85, 100],
+        "layer2.tint": [80, 85, 100],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -1112,9 +1112,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["right"],
-        "layer0.tint": [100, 100, 100],
-        "layer1.tint": [100, 100, 100],
-        "layer2.tint": [100, 100, 100],
+        "layer0.tint": [100, 106, 125],
+        "layer1.tint": [100, 106, 125],
+        "layer2.tint": [100, 106, 125],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -1123,9 +1123,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["right", "selected"],
-        "layer0.tint": [80, 80, 80],
-        "layer1.tint": [80, 80, 80],
-        "layer2.tint": [80, 80, 80],
+        "layer0.tint": [80, 85, 100],
+        "layer1.tint": [80, 85, 100],
+        "layer2.tint": [80, 85, 100],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -1134,9 +1134,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["left", "right"],
-        "layer0.tint": [100, 100, 100],
-        "layer1.tint": [100, 100, 100],
-        "layer2.tint": [100, 100, 100],
+        "layer0.tint": [100, 106, 125],
+        "layer1.tint": [100, 106, 125],
+        "layer2.tint": [100, 106, 125],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,
@@ -1145,9 +1145,9 @@
     {
         "class": "icon_button_control",
         "attributes": ["left", "right", "selected"],
-        "layer0.tint": [80, 80, 80],
-        "layer1.tint": [80, 80, 80],
-        "layer2.tint": [80, 80, 80],
+        "layer0.tint": [80, 85, 100],
+        "layer1.tint": [80, 85, 100],
+        "layer2.tint": [80, 85, 100],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
