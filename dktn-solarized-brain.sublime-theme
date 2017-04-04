@@ -17,7 +17,7 @@
         "tab_overlap": -2,
         "tab_width": 40,
         "tab_min_width": 20,
-        "tab_height": 22,
+        "tab_height": 20,
         "mouse_wheel_switch": false
     },
     {
@@ -62,7 +62,7 @@
         "attributes": ["selected"],
         "layer0.tint": [40, 50, 70],
         "layer1.tint": [40, 50, 70],
-        "layer2.tint": [95, 100, 110],
+        "layer2.tint": [65, 70, 80],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -253,7 +253,7 @@
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-        "fg": [200, 200, 200]
+        "fg": [220, 220, 220]
     },
     {
         "class": "tab_label",
