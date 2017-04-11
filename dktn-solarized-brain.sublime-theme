@@ -62,7 +62,7 @@
         "attributes": ["selected"],
         "layer0.tint": [40, 50, 70],
         "layer1.tint": [40, 50, 70],
-        "layer2.tint": [65, 70, 80],
+        "layer2.tint": [95, 100, 110],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -253,7 +253,7 @@
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-        "fg": [220, 220, 220]
+        "fg": [0, 0, 0]
     },
     {
         "class": "tab_label",
