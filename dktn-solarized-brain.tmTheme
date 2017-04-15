@@ -35,6 +35,8 @@
 				<string>#9D550F</string>
 				<key>guide</key>
 				<string>#FFFFFF0A</string>
+				<key>accent</key>
+				<string>#DDDDDD</string>
 				<key>bracketsForeground</key>
 				<string>#F8F8F2</string>
 				<key>bracketsOptions</key>
